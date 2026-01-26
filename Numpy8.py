@@ -7,3 +7,6 @@ array_mean = np.mean(array)
 array_max = np.max(array)
 
 print("element-wise sum:", array_sum)
+print(array_sum)
+print(array_mean)
+print(array_max)
