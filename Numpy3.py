@@ -3,4 +3,5 @@ import numpy as np
 array_2d = np.array ([[1,2,3], [4,5,6], [7,8,9]])
 element = array_2d[1,2]
 
-print("array_2d")
+print(array_2d)
+print("element at row 1, column 2:", element)
