@@ -32,9 +32,13 @@ Outcome           : Strong Foundation in NumPy & Analytical Thinking
 This repository is designed as a **complete NumPy learning ecosystem**, focusing on:
 
 ✔ Concept-first learning approach
+
 ✔ Hands-on numerical problem solving
+
 ✔ Structured progression from basics to advanced operations
+
 ✔ Strong focus on **array-based computation**
+
 ✔ Real-world data handling techniques
 
 ---
