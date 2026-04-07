@@ -346,9 +346,13 @@ flowchart TD
 # 🏆 💼 What This Shows Recruiters
 
 ✔ You understand **end-to-end data workflows**
+
 ✔ You can write **efficient NumPy code**
+
 ✔ You apply **real analytical thinking**
+
 ✔ You structure projects professionally
+
 ✔ You combine **theory + implementation**
 
 ---
