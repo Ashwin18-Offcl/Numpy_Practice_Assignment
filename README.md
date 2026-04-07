@@ -140,9 +140,13 @@ This repository is designed as a **complete NumPy learning ecosystem**, focusing
 # 💡 Key Insights You Will Gain
 
 ✔ How to replace loops with vectorized operations
+
 ✔ How to optimize computations using NumPy
+
 ✔ How to structure large datasets efficiently
+
 ✔ How to prepare data for analysis & visualization
+
 ✔ How to build strong numerical foundations
 
 ---
