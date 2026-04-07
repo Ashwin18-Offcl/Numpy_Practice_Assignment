@@ -372,9 +372,13 @@ flowchart TD
 This repository helps you:
 
 ✔ Strengthen core data skills
+
 ✔ Improve computational efficiency
+
 ✔ Build portfolio-ready projects
+
 ✔ Prepare for Data Analyst roles
+
 ✔ Transition into Data Science
 
 ---
